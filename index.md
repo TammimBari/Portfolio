@@ -1,4 +1,8 @@
-![CreativepromptMeltdown copy 2](https://user-images.githubusercontent.com/33126489/118072657-48936a00-b378-11eb-94d0-8f7977baaa68.jpg)
+![bariTquote copy-ai](https://user-images.githubusercontent.com/33126489/118073262-7fb64b00-b379-11eb-8715-d13b62179c1d.jpg)
+![Bari_T_letterforms copy-ai](https://user-images.githubusercontent.com/33126489/118073222-690ff400-b379-11eb-9afb-fb9f79488dda.jpg)
+![Bitmap Alphabet copy-ai](https://user-images.githubusercontent.com/33126489/118073283-893fb300-b379-11eb-9cbd-eae0a3709348.jpg)
+![CreativepromptMeltdown copy 2](https://user-images.githubusercontent.com/33126489/118073300-92c91b00-b379-11eb-9900-f4cf9d04cd62.jpg)
+
 
 
 ## Welcome to GitHub Pages
