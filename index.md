@@ -1,3 +1,6 @@
+[Bari_T_letterforms copy.pdf](https://github.com/TammimBari/Portfolio/files/6470099/Bari_T_letterforms.copy.pdf)
+[bariTquote copy.pdf](https://github.com/TammimBari/Portfolio/files/6470102/bariTquote.copy.pdf)
+[Bitmap Alphabet copy (1) copy.pdf](https://github.com/TammimBari/Portfolio/files/6470115/Bitmap.Alphabet.copy.1.copy.pdf)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TammimBari/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
